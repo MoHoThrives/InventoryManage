@@ -156,6 +156,7 @@ export default function Home() {
             //   width: { xs: "100vw", md: "800px" }
             // }}
             width="100%"
+            px={2}
             height="30px"
             bgcolor="#bec3bf"
             justifyContent="space-between"
